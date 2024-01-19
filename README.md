@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/abhinandh05](https://www.linkedin.com/in/abhinandhc05/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinandh05" height="30" width="40" /></a>
-<a href="[https://stackoverflow.com/users/abhinandh c](https://stackoverflow.com/users/22745039/abhinandh-c)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhinandh c" height="30" width="40" /></a>
-<a href="[https://fb.com/abhinandhc](https://www.facebook.com/abhinandh.c.7)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinandhc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhinandhc05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinandhc05/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/abhinandh-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhinandh-c" height="30" width="40" /></a>
+<a href="https://fb.com/abhinandh.c.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinandh.c.7" height="30" width="40" /></a>
 <a href="https://instagram.com/kannan_adhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kannan_adhc" height="30" width="40" /></a>
 </p>
 
