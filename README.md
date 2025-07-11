@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandh05&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandh05" /> </p>
 
-- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **MERN,java**
 
