@@ -293,11 +293,6 @@ I'm always excited to discuss new opportunities, innovative projects, and cuttin
 <tr>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60"><br>
-<b>🎵 Music Producer</b><br>
-Creating beats and electronic music in spare time
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60"><br>
 <b>🎮 Game Enthusiast</b><br>
 Love playing and analyzing game mechanics
 </td>
