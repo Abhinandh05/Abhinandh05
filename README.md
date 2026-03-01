@@ -60,18 +60,18 @@ const abhinandh = {
 ### 📱 Mobile Development
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="90" title="React Native" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile" width="90" />
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="420" alt="React Native Mobile Development"/>
 </div>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React Native" />
   <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
-> 🚀 Cross-platform mobile apps with React Native + Expo | 99.9% crash-free sessions
+> 🚀 Cross-platform mobile apps with React Native + Expo | 99.9% crash-free sessions | iOS & Android
 
 ### ⚙️ Backend & Go
 
